@@ -1,0 +1,1 @@
+# program-to-calculate-the-mean-of-the-number-of-the-tuple
